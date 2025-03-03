@@ -33,7 +33,7 @@ Chinese Wikipedia gadget for correctly comment/vote in Did You Know nominations.
 DYKN的留言需要用两个`*`缩进，小工具将在发布编辑时自动加入。如果您的留言不止一行，请您在第二行以后手动加入缩进。此外，小工具会自动去除留言尾部的换行。如果您确实需要换行再签名，请手动签名或想办法规避。
 
 ### 发布留言后
-无论您正处于哪一个页面，您通过本小工具发表留言后，小工具将自动重定向至[https://zh.wikipedia.org/w/index.php?title=Wikipedia:%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90/%E5%80%99%E9%80%89&diff=cur&oldid=prev](DYKN页面的最新编辑)，供您检查留言情况。若留言错位，请您手动调整并报告。
+无论您正处于哪一个页面，您通过本小工具发表留言后，小工具将自动重定向至[DYKN页面的最新编辑](https://zh.wikipedia.org/w/index.php?title=Wikipedia:%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90/%E5%80%99%E9%80%89&diff=cur&oldid=prev)，供您检查留言情况。若留言错位，请您手动调整并报告。
 
 此外，在该差异页面也可以留言评审，无需返回DYKN的当前版本。
 
